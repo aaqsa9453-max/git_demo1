@@ -1,5 +1,9 @@
 # GitHub Demo 1
 
-My first GitHub repository.
+This is my first repository.
 
-I am learning GitHub Pull Requests.
+## Purpose
+Learning Git and GitHub.
+
+## Pull Request
+My first pull request practice.
